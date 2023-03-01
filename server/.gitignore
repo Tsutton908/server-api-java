@@ -34,4 +34,4 @@ build/
 
 ### SQL Database ###
 ###Should exclude input data
-./src/main/resources/application.yml
+src/main/resources/application.yml
