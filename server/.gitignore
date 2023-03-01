@@ -33,4 +33,5 @@ build/
 .vscode/
 
 ### SQL Database ###
+###Should exclude input data
 ./src/main/resources/application.yml
